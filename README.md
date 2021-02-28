@@ -5,5 +5,5 @@ This repository holds the trained models and results for our modified YOLOv4 arc
 ## Testing
 The testing is carried out using the official [VisDrone DET Toolkit](https://github.com/VisDrone/VisDrone2018-DET-toolkit.git) on VisDrone Test-Dev dataset. Detection files are generated using darknet_images.py file and resultant detection  files are in the folders det_files_modified_yolov4 and det_files_original_yolov4. These detection files are passed into VisDrone DET Toolkit to get mAP results shown in the below figure.
 <p align="center">
-  <img width="500" height="320" src="https://github.com/hafizas101/modified-yolov4/blob/main/final_results.png">
+  <img width="500" height="320" src="https://github.com/sharoseali/modified-yolov4/blob/main/final_results.png">
 </p>
