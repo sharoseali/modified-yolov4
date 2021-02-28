@@ -1,0 +1,6 @@
+classes=12
+train = /home/sharoze/Downloads/darknet-master/data/VisDrone2019/drone/train.lists
+valid = /home/sharoze/Downloads/darknet-master/data/VisDrone2019/drone/test_set.lists
+test = /home/sharoze/Downloads/darknet-master/data/VisDrone2019/drone/ test_set.lists
+names = /home/sharoze/Downloads/darknet-master/data/VisDrone2019/drone/labels.names
+backup = backup/

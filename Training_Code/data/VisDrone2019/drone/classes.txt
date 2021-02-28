@@ -1,0 +1,12 @@
+Ignore
+Pedestrian
+People
+Bicycle
+Car
+Van
+Truck
+Tricycle
+Awning-tricycle
+Bus
+Motor
+Others
