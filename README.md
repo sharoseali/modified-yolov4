@@ -1,7 +1,7 @@
 # modified-yolov4
 This repository holds the trained models and results for our modified YOLOv4 architectre. The training is done using the official [DarkNet repository](https://github.com/AlexeyAB/darknet.git) on VisDrone train portion of the dataset and training files are present in training_code folder. The trained weights for original and modified YOLOv4 architecture are available on [Google Drive](https://drive.google.com/drive/folders/1ETRmejbZnB2BFs-ksw286VY0CHI5dCBt?usp=sharing). The modified YOLOv4 architecture is shown in the below figure.
 <p align="center">
-  <img width="500" height="450" src="https://github.com/sharoseali/modified-yolov4/blob/main/yolo_paper_image_Modified.png">
+  <img width="600" height="550" src="https://github.com/sharoseali/modified-yolov4/blob/main/yolo_paper_image_Modified.png">
 </p>
 
 
